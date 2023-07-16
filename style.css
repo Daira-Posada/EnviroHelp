@@ -4,6 +4,10 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+p {
+    text-align:center;
+}
+
 /* Home */
 
 #mainBody {
